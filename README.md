@@ -1,5 +1,5 @@
 # Analysis-IMDB-dataset
-Analysis of IMDB dataset as part of Intelligence Analytics Challenge by Intelligent Analytics Society, UT Dallas
+as a part of IAC 3.0 Challenge (UT Dallas)
 
 IAC4.0 Competition, IAS CLUB, UT Dallas – 3rd Position April 2019
 • Participated in a group of 4 and analyzed the provided dataset.
